@@ -1,0 +1,15 @@
+= Remarkable Test (Example)
+
+== *English:*
+This is part of an article that I've written to my blog(alchemylab). It consists to a configuration of RSpec + Remarkable in a Rails 3.1.1 environment. You can find more about it here: http://alchemylab.posterous.com/receita-alquimica-configurando-remarkable-rsp
+
+But I must warn you that the article is in portuguese. It's basically the steps to build this test.
+It's important to notice that with this basics you can start use Remarkable in any of your new Rails projects
+
+== *Português:*
+Essa faz parte de um artigo que eu escrevi em meu blog(alchemylab). A mesma consiste de uma configuração do Rspec + Remarkable em um ambiente com Rails.3.1.1.
+Você pode encontrar mais sobre o mesmo aqui:
+http://alchemylab.posterous.com/receita-alquimica-configurando-remarkable-rsp
+
+Mas devo lhe avisar que o artigo está em português. O mesmo é basicamente os passos para construir esse teste.
+É importante observar que com essas bases você poderá utilizar o Remarkable em qualquer um dos seus novos projetos Rails.
